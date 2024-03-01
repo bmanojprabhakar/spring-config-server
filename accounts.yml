@@ -1,5 +1,5 @@
 accounts:
-  message: "Welcome to bank accounts related docker v1 APIs "
+  message: "Welcome to bank accounts related docker v2 APIs "
   contactDetails:
     name: "John Doe - Developer"
     email: "john@unknownbank.com"
